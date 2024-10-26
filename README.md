@@ -22,8 +22,8 @@ This Bash script automates the installation and configuration of Nexus Repositor
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/arynishere/nexus-installation-script.git
-   cd nexus-installation-script
+   git clone https://github.com/arynishere/exus-install-ubuntu.git
+   cd exus-install-ubuntu
    ```
 
 2. Make the script executable:
