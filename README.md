@@ -29,13 +29,14 @@ This Bash script automates the installation and configuration of Nexus Repositor
 2. Make the script executable:
 
    ```bash
-   chmod +x install_nexus.sh
+   chmod +x nexus.sh
    ```
 
 3. Run the script:
 
    ```bash
-   ./install_nexus.sh
+   ./nexus.sh
+
    ```
 
 4. After the installation completes, Nexus will be running as a systemd service. You can manage it using the following commands:
