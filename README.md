@@ -1,5 +1,4 @@
 
-```markdown
 # Nexus Installation Script
 
 This Bash script automates the installation and configuration of Nexus Repository Manager on Ubuntu systems. It simplifies the setup process by handling system updates, Java installation, user creation, Nexus download, and service configuration.
